@@ -8,7 +8,9 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
+	
 	// nmodel "github.com/haidlir/x-golang-course/021-simple-rest-api/model"
+	nmodel "github.com/dymzfp/golang-simple/model"
 )
 
 const (

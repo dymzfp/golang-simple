@@ -5,7 +5,9 @@ import (
 	"net/http"
 
 	// ndb "github.com/haidlir/x-golang-course/021-simple-rest-api/db"
+	ndb "github.com/dymzfp/golang-simple/db"
 	// nhandler "github.com/haidlir/x-golang-course/021-simple-rest-api/handler"
+	nhandler "github.com/dymzfp/golang-simple/handler"
 
 	"github.com/gorilla/mux"
 )

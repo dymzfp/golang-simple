@@ -5,6 +5,7 @@ import (
 	"sync"
 
 	// nmodel "github.com/haidlir/x-golang-course/021-simple-rest-api/model"
+	nmodel "github.com/dymzfp/golang-simple/model"
 )
 
 // DummyDB is an inMem memory
